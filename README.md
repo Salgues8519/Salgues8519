@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hi there 👋
+## I'm Rafael Salgues 
+- I live in Brazil, northeast
+- I work in the administration and logistics sector and am transitioning into the development field (Backend and Frontend) 💻.
+
+
+## Connect whit me: 
+<a href="https://www.linkedin.com/in/rafael-salgues-68b776258/" target="_blank">
+<img align ="center" alt="rafael-linkedin" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+  style="max-width:100%;">
+</a>
 
 <!--
 **Salgues8519/Salgues8519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
