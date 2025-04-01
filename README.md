@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Rafael Salgues 
 - I live in Brazil, northeast
-- I work in the administration and logistics sector and am transitioning into the development field (Backend and Frontend) 💻.
+- Experienced professional in logistics, administration, customer service, and technology. Transitioning to software development with Fullstack Developer training and studies in Computer Science & Cybersecurity 💻. Proficient in social media management, multimedia editing, and e-commerce. 
 
 
 ## Connect whit me: 
